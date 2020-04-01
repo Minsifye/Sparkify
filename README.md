@@ -48,7 +48,7 @@ There is one notebook available here to showcase work related to the above point
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the Medium post available [here]().
+The main findings of the code can be found at the Medium post available [here](https://medium.com/@monika.bagyal/how-to-predict-customer-churn-using-machine-learning-model-on-spark-99f5277993b7?sk=dfae709ed6563237de260a46195bd783).
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
